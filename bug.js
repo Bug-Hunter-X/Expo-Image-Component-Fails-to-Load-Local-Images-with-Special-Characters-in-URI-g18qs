@@ -1,0 +1,1 @@
+This bug occurs when using the Expo `Image` component with a local image URI that contains special characters. The image fails to load and no error is thrown in the console.  The URI is correctly generated and accessible from other parts of the application.
